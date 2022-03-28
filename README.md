@@ -12,3 +12,4 @@ as:
 ```
 
 I created a html web page, with minimal JavaScript coding. Just paste laboratory results text to form on the top, click "Kısalt" button, see trimmed text in the form on the bottom. Now you can select the trimmed text, and click "Kopyala" to copy it to clipboard, then paste it to patients history in your EHR software.
+Dictionary file is separated from code. It lists long texts and shortened (even deleted) texts sequentially.

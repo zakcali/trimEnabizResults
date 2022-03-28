@@ -1,5 +1,5 @@
 # trimEnabizResults
-e-nabız is software by Sağlık Bakanlığı. I need space from  pasted laboratory results to patient's history. So I wrote a javascript program to shorten the laboratory result texts, following:
+e-nabız is a software created for Sağlık Bakanlığı (Ministry of Health of Turkiye). It acts as a bigdata of electronic health records of people. I need to gain space from  pasted laboratory results to patient's history. So I wrote a javascript program to shorten the laboratory result texts, following:
 ```
 	25.03.2022 02:57	Üre (Serum/Plazma)	33		6 - 26	
 	25.03.2022 02:57	Potasyum (Serum/Plazma)	2,7		3,5 - 5,2	

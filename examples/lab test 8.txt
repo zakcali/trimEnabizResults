@@ -1,0 +1,437 @@
+	18.09.2020 02:40	HbA1c(IFCC)	50	mmol/mol	15 - 38	
+	18.09.2020 02:40	Glike hemoglobin (Hb A1c)	6.7		3.5 - 5.6	
+	17.09.2020 22:09	Kan Sayımı Otomatik Hemogram (geniş panel)	:			
+	17.09.2020 20:19	Sodyum (Serum/Plazma)	140	mEq/L	136 - 145	
+	17.09.2020 16:53	TSH	3.72	mU/L	0.27 - 4.3	
+	17.09.2020 16:53	Serbest T4	14.2	ng/L	8.6 - 17.7	
+	17.09.2020 16:53	Vitamin B12	264	ng/L	197 - 771	
+	17.09.2020 16:53	Serbest T3	2.8	ng/L	2 - 4.4	
+	17.09.2020 16:53	Ferritin (Serum/Plazma)	42	g/L	30 - 400	
+	17.09.2020 15:51	Tahmini GFH (CKD-EPI formülü)	71	mL/min/1.73 m2	>90	
+	17.09.2020 15:51	Alanin aminotransferaz (ALT) (Serum/Plazma)	60	IU/L	<41	
+	17.09.2020 15:51	Alkalen fosfataz (Serum/Plazma)	47	IU/L	40 - 129	
+	17.09.2020 15:51	Aspartat aminotransferaz (AST) (Serum/Plazma)	35	IU/L	<41	
+	17.09.2020 15:51	Glukoz (Serum/Plazma)	119	mg/dL	74 - 106	
+	17.09.2020 15:51	Kalsiyum (Serum/Plazma)	10	mg/dL	8,4 - 10,2	
+	17.09.2020 15:51	Kolesterol (Serum/Plazma)	181	mg/dL	120 - 200	
+	17.09.2020 15:51	Kreatinin (Serum/Plazma)	1.21	mg/dL	0.7 - 1.2	
+	17.09.2020 15:51	Trigliserid (Serum/Plazma)	383	mg/dL	<150	
+	17.09.2020 15:51	LDL Kolesterol (Friedewald formülü)	79	mg/dL	70 - 130	
+	17.09.2020 15:51	Ürik asit (Serum/Plazma)	5.5	mg/dL	3.4 - 7	
+	17.09.2020 15:51	Demir (Serum/Plazma)	124	g/dL	45 - 160	
+	17.09.2020 15:51	Demir bağlama kapasitesi	443	g/dL	220 - 428	
+	17.09.2020 15:51	Serbest Demir Bağlama Kapasitesi	319	g/dL	125 - 345	
+	17.09.2020 15:51	Albümin (Serum/Plazma)	46	g/L	35 - 52	
+	17.09.2020 15:51	Gamma glutamil transferaz (GGT) (Serum/Plazma)	54	IU/L	8 - 61	
+	17.09.2020 15:51	HDL Kolesterol	25	mg/dL	40 - 60	
+	17.09.2020 15:51	Üre Azotu (Serum/Plazma)	14	mg/dL	6 - 20	
+	17.09.2020 15:51	Potasyum (Serum/Plazma)	5.1	mEq/L	3.5 - 5.5	
+	17.09.2020 15:51	C reaktif protein (CRP)	7.8	mg/L	0 - 5	
+	17.09.2020 15:51	Romatoid faktör (RF)	< 10.0	IU/mL	0 - 14	
+	17.09.2020 14:23	Erit.Dağ.Gen.(RDW-CV)	15.3		11.5 - 14.5	
+	17.09.2020 14:23	Nötrofil oranı (NEUT)	47.1		40 - 74	
+	17.09.2020 14:23	Lenfosit oranı (LYMPH)	41.3		20.50 - 45.0	
+	17.09.2020 14:23	Monosit oranı (MONO)	9.9		2.0 - 9.0	
+	17.09.2020 14:23	Eozinofil oranı (EO)	1.4		0.0 - 4.0	
+	17.09.2020 14:23	Bazofil oranı (BASO)	0.3		0.2 - 1.0	
+	17.09.2020 14:23	Nötrofil sayısı (NEUT#)	4.94	x10^3/L	1.9 - 8.0	
+	17.09.2020 14:23	Ort.Trom.Vol.(MPV)	9.3	fL	7.4 - 13.5	
+	17.09.2020 14:23	Lenfosit sayısı (LYMPH#)	4.33	x10^3/L	1.5 - 4.5	
+	17.09.2020 14:23	Monosit sayısı (MONO#)	1.04	x10^3/L	0.02 - 0.6	
+	17.09.2020 14:23	Eozinofil sayısı (EO#)	0.15	x10^3/L	0.0 - 0.7	
+	17.09.2020 14:23	Bazofil sayısı (BASO#)	0.03	x10^3/L	0.0 - 0.10	
+	17.09.2020 14:23	RDW İndeksi	214			
+	17.09.2020 14:23	Hemoglobin (HGB)	18.1	g/dL	13,5 - 17,0	
+	17.09.2020 14:23	Lökosit (WBC)	10.5	x10^3/L	4.4 - 11.3	
+	17.09.2020 14:23	Hematokrit (HCT)	53.8		40 - 52	
+	17.09.2020 14:23	Ort.Erit.Vol. (MCV)	86.6	fL	80 - 93	
+	17.09.2020 14:23	Ort.Erit.Hem.(MCH)	29.1	pg	28 - 33	
+	17.09.2020 14:23	Ort. Erit. Hem.Kon.(MCHC)	33.6	g/dL	33 - 36	
+	17.09.2020 14:23	Eritrosit (RBC)	6.2	x10^6/L	4,5 - 5,9	
+	17.09.2020 14:23	Trombosit (PLT)	319	x10^3/L	150 - 400	
+	17.09.2020 14:23	Mentzer İndeksi	14			
+	18.07.2020 17:07	HbA1c(IFCC)	48	mmol/mol	15 - 38	
+	18.07.2020 17:07	Glike hemoglobin (Hb A1c)	6.5		3.5 - 5.6	
+	18.07.2020 16:40	Kan Sayımı Otomatik Hemogram (geniş panel)	:			
+	18.07.2020 16:28	TSH	3.74	mU/L	0.27 - 4.3	
+	18.07.2020 16:28	Serbest T4	15.1	ng/L	8.6 - 17.7	
+	18.07.2020 16:28	Serbest T3	2.77	ng/L	2 - 4.4	
+	18.07.2020 15:34	Tahmini GFH (CKD-EPI formülü)	64	mL/min/1.73 m2	>90	
+	18.07.2020 15:34	Alanin aminotransferaz (ALT) (Serum/Plazma)	41	IU/L	<41	
+	18.07.2020 15:34	Albümin (Serum/Plazma)	45	g/L	35 - 52	
+	18.07.2020 15:34	Alkalen fosfataz (Serum/Plazma)	38	IU/L	40 - 129	
+	18.07.2020 15:34	Aspartat aminotransferaz (AST) (Serum/Plazma)	27	IU/L	<41	
+	18.07.2020 15:34	Glukoz (Serum/Plazma)	106	mg/dL	74 - 106	
+	18.07.2020 15:34	HDL Kolesterol	23	mg/dL	40 - 60	
+	18.07.2020 15:34	Kalsiyum (Serum/Plazma)	9.8	mg/dL	8,4 - 10,2	
+	18.07.2020 15:34	Üre Azotu (Serum/Plazma)	15	mg/dL	6 - 20	
+	18.07.2020 15:34	Kolesterol (Serum/Plazma)	161	mg/dL	120 - 200	
+	18.07.2020 15:34	Kreatinin (Serum/Plazma)	1.33	mg/dL	0.7 - 1.2	
+	18.07.2020 15:34	Trigliserid (Serum/Plazma)	292	mg/dL	<150	
+	18.07.2020 15:34	LDL Kolesterol (Friedewald formülü)	80	mg/dL	70 - 130	
+	18.07.2020 15:34	Ürik asit (Serum/Plazma)	5.9	mg/dL	3.4 - 7	
+	18.07.2020 15:34	C reaktif protein (CRP)	6.2	mg/L	0 - 5	
+	18.07.2020 15:34	Gamma glutamil transferaz (GGT) (Serum/Plazma)	42	IU/L	8 - 61	
+	18.07.2020 15:34	Potasyum (Serum/Plazma)	4.7	mEq/L	3.5 - 5.5	
+	18.07.2020 15:34	Sodyum (Serum/Plazma)	139	mEq/L	136 - 145	
+	18.07.2020 15:34	Romatoid faktör (RF)	< 10.0	IU/mL	0 - 14	
+	18.07.2020 14:03	Ort.Trom.Vol.(MPV)	9.3	fL	7.4 - 13.5	
+	18.07.2020 14:03	Ort.Erit.Hem.(MCH)	31	pg	28 - 33	
+	18.07.2020 14:03	Ort. Erit. Hem.Kon.(MCHC)	34.5	g/dL	33 - 36	
+	18.07.2020 14:03	Erit.Dağ.Gen.(RDW-CV)	15.4		11.5 - 14.5	
+	18.07.2020 14:03	Nötrofil oranı (NEUT)	43.5		40 - 74	
+	18.07.2020 14:03	Lenfosit oranı (LYMPH)	44.4		20.50 - 45.0	
+	18.07.2020 14:03	Monosit oranı (MONO)	9.5		2.0 - 9.0	
+	18.07.2020 14:03	Eozinofil oranı (EO)	2.3		0.0 - 4.0	
+	18.07.2020 14:03	Bazofil oranı (BASO)	0.3		0.2 - 1.0	
+	18.07.2020 14:03	Trombosit (PLT)	355	x10^3/L	150 - 400	
+	18.07.2020 14:03	Nötrofil sayısı (NEUT#)	4.57	x10^3/L	1.9 - 8.0	
+	18.07.2020 14:03	Lenfosit sayısı (LYMPH#)	4.66	x10^3/L	1.5 - 4.5	
+	18.07.2020 14:03	Monosit sayısı (MONO#)	1	x10^3/L	0.02 - 0.6	
+	18.07.2020 14:03	Eozinofil sayısı (EO#)	0.24	x10^3/L	0.0 - 0.7	
+	18.07.2020 14:03	Bazofil sayısı (BASO#)	0.03	x10^3/L	0.0 - 0.10	
+	18.07.2020 14:03	RDW İndeksi	235			
+	18.07.2020 14:03	Hemoglobin (HGB)	18.2	g/dL	13,5 - 17,0	
+	18.07.2020 14:03	Lökosit (WBC)	10.5	x10^3/L	4.4 - 11.3	
+	18.07.2020 14:03	Hematokrit (HCT)	52.8		40 - 52	
+	18.07.2020 14:03	Ort.Erit.Vol. (MCV)	89.9	fL	80 - 93	
+	18.07.2020 14:03	Eritrosit (RBC)	5.9	x10^6/L	4,5 - 5,9	
+	18.07.2020 14:03	Mentzer İndeksi	15			
+	18.04.2021 08:26	Total testosteron	236,17		142 - 923	
+	18.04.2021 08:26	İnsülin	15,2		6 - 27	
+	18.04.2021 08:26	TSH	4,197		0,35 - 4,94	
+	18.04.2021 08:26	Lipoprotein a	0,17		0 - 0.3	
+	18.04.2021 08:26	Üre (Serum/Plazma)	13		6 - 21	
+	18.04.2021 08:26	Kreatinin (Serum/Plazma)	1,23		0,70 - 1,30	
+	18.04.2021 08:26	Glukoz (Serum/Plazma)	99		70 - 105	
+	18.04.2021 08:26	Trigliserid (Serum/Plazma)	278		50 - 150	
+	18.04.2021 08:26	Potasyum (Serum/Plazma)	4,1		3,5 - 5,2	
+	18.04.2021 08:26	Sodyum (Serum/Plazma)	140		135 - 146	
+	18.04.2021 08:26	Kalsiyum (Serum/Plazma)	9,9		8,4 - 10,2	
+	18.04.2021 08:26	Alkalen fosfataz (Serum/Plazma)	32		20 - 150	
+	18.04.2021 08:26	Alanin aminotransferaz (ALT) (Serum/Plazma)	45		0 - 55	
+	18.04.2021 08:26	LDL kolesterol (Direkt)	128		< 130	
+	18.04.2021 08:26	Glomerüler Filtrasyon Hızı (CKD - EPI)	69		> 60	
+	18.04.2021 08:26	Kreatin kinaz (Serum/Plazma)	141		30 - 200	
+	18.04.2021 08:26	Lipaz (Serum/Plazma)	19		0 - 60	
+	18.04.2021 08:26	Gamma glutamil transferaz (GGT) (Serum/Plazma)	47		8 - 64	
+	18.04.2021 08:26	Aspartat aminotransferaz (AST) (Serum/Plazma)	29		5 - 34	
+	17.04.2021 11:27	Glomerüler Filtrasyon Hızı (CKD - EPI)	62		> 60	
+	17.04.2021 11:27	Kreatinin (Serum/Plazma)	1,35		0,70 - 1,30	
+	17.04.2021 11:27	Bilirubin, total (Serum/Plazma)	0,80		0,30 - 1,20	
+	17.04.2021 11:27	Albümin (Serum/Plazma)	4,3		3,5 - 5	
+	17.04.2021 11:27	Magnezyum (Serum/Plazma)	1,97		1,6 - 2,6	
+	17.04.2021 11:27	Laktat dehidrogenaz (Serum/Plazma)	224		125 - 243	
+	17.04.2021 11:27	Bilirubin, direkt (Serum/Plazma)	0,35		0 - 0,5	
+	17.04.2021 11:27	Protein (Serum/Plazma)	7,3		6,2 - 8,3	
+	17.04.2021 11:27	Fosfor (Serum/Plazma)	2		2,3 - 4,7	
+	17.04.2021 11:27	Alkalen fosfataz (Serum/Plazma)	33		20 - 150	
+	17.04.2021 11:27	Tam Kan Sayımı (Hemogram)				
+	17.04.2021 11:27	Tam Kan Sayımı (Hemogram)				
+	17.04.2021 11:27	Bilirubin, total (Serum/Plazma)	0,80		0,30 - 1,20	
+	17.04.2021 11:27	Albümin (Serum/Plazma)	4,3		3,5 - 5	
+	17.04.2021 11:27	Magnezyum (Serum/Plazma)	1,97		1,6 - 2,6	
+	17.04.2021 11:27	Laktat dehidrogenaz (Serum/Plazma)	224		125 - 243	
+	17.04.2021 11:27	Bilirubin, direkt (Serum/Plazma)	0,35		0 - 0,5	
+	17.04.2021 11:27	Protein (Serum/Plazma)	7,3		6,2 - 8,3	
+	17.04.2021 11:27	Fosfor (Serum/Plazma)	2		2,3 - 4,7	
+	17.04.2021 11:27	Alkalen fosfataz (Serum/Plazma)	33		20 - 150	
+	25.03.2021 18:07	Boyasız direkt mikroskobik inceleme	Makroskobik Görünüm:Katı, Şekilli, Eritrosit GÖRÜLMEDİ, Lökosit GÖRÜLMEDİ, Parazit GÖRÜLMEDİ			
+	25.03.2021 18:07	Gaita kültürü	Kültür: Salmonella ve Shigella türleri ÜREMEDİ.			
+	25.03.2021 10:54	Tam Kan Sayımı (Hemogram)				
+	25.03.2021 10:54	Tam idrar analizi (Strip+Mikroskopi)				
+	25.03.2021 10:54	Magnezyum (Serum/Plazma)	2,14		1,6 - 2,6	
+	25.03.2021 10:54	Laktat dehidrogenaz (Serum/Plazma)	200		125 - 243	
+	25.03.2021 10:54	Protein (Serum/Plazma)	7		6,2 - 8,3	
+	25.03.2021 10:54	Fosfor (Serum/Plazma)	2,9		2,3 - 4,7	
+	25.03.2021 10:54	Bilirubin, direkt (Serum/Plazma)	0,35		0 - 0,5	
+	25.03.2021 10:54	Alkalen fosfataz (Serum/Plazma)	31		20 - 150	
+	25.03.2021 10:54	Alanin aminotransferaz (ALT) (Serum/Plazma)	39		0 - 55	
+	25.03.2021 10:54	Gamma glutamil transferaz (GGT) (Serum/Plazma)	60		8 - 64	
+	25.03.2021 10:54	Vitamin B12	215		187 - 883	
+	25.03.2021 10:54	Albümin (Serum/Plazma)	4,1		3,5 - 5	
+	25.03.2021 10:54	Kalsiyum (Serum/Plazma)	9,8		8,4 - 10,2	
+	25.03.2021 10:54	Aspartat aminotransferaz (AST) (Serum/Plazma)	32		5 - 34	
+	25.03.2021 10:54	Bilirubin, total (Serum/Plazma)	0,70		0,30 - 1,20	
+	25.03.2021 10:54	Potasyum (Serum/Plazma)	4,5		3,5 - 5,2	
+	25.03.2021 10:54	Ürik asit (Serum/Plazma)	4,9		3 - 7,2	
+	25.03.2021 10:54	Üre (Serum/Plazma)	14		6 - 21	
+	25.03.2021 10:54	Demir (Serum/Plazma)	140,4		65 - 175	
+	25.03.2021 10:54	Sodyum (Serum/Plazma)	138		135 - 146	
+	25.03.2021 10:54	Ferritin (Serum/Plazma)	178		21,8 - 274,7	
+	25.03.2021 10:54	Kreatinin (Serum/Plazma)	1,16		0,70 - 1,30	
+	25.03.2021 10:54	C reaktif protein (CRP)	12,4		0 - 5	
+	25.03.2021 10:54	İdrar Kültürü	Kültür: Üreme olmadı.			
+	10.03.2021 10:11	Glomerüler Filtrasyon Hızı (CKD - EPI)	65		> 60	
+	10.03.2021 10:11	Aspartat aminotransferaz (AST) (Serum/Plazma)	48		5 - 34	
+	10.03.2021 10:11	Gamma glutamil transferaz (GGT) (Serum/Plazma)	39		8 - 64	
+	10.03.2021 10:11	Kreatin kinaz (Serum/Plazma)	116		30 - 200	
+	10.03.2021 10:11	Lipaz (Serum/Plazma)	15		0 - 60	
+	10.03.2021 10:11	Trigliserid (Serum/Plazma)	310		50 - 150	
+	10.03.2021 10:11	Kreatinin (Serum/Plazma)	1,30		0,70 - 1,30	
+	10.03.2021 10:11	Ürik asit (Serum/Plazma)	5,5		3 - 7,2	
+	10.03.2021 10:11	Alanin aminotransferaz (ALT) (Serum/Plazma)	52		0 - 55	
+	10.03.2021 10:11	Alkalen fosfataz (Serum/Plazma)	38		20 - 150	
+	10.03.2021 10:11	Lüteinizan hormon (LH)	3,28		1,14 - 8,75	
+	25.02.2021 09:30	LDL Kolesterol (Friedewald formülü)	Trigliserit değeri >400 mg/dL olduğundan hesaplanamadı!!	mg/dL	70 - 130	
+	24.02.2021 21:05	HbA1c(IFCC)	49	mmol/mol	15 - 38	
+	24.02.2021 21:05	Glike hemoglobin (Hb A1c)	6.6		3.5 - 5.6	
+	24.02.2021 17:24	Tahmini GFH (CKD-EPI formülü)	75	mL/min/1.73 m2	>90	
+	24.02.2021 17:24	Glukoz (Serum/Plazma)	103	mg/dL	74 - 106	
+	24.02.2021 17:24	Alanin aminotransferaz (ALT) (Serum/Plazma)	79	IU/L	<41	
+	24.02.2021 17:24	Alkalen fosfataz (Serum/Plazma)	45	IU/L	40 - 129	
+	24.02.2021 17:24	Aspartat aminotransferaz (AST) (Serum/Plazma)	48	IU/L	<41	
+	24.02.2021 17:24	HDL Kolesterol	19	mg/dL	40 - 60	
+	24.02.2021 17:24	Kalsiyum (Serum/Plazma)	9.7	mg/dL	8,4 - 10,2	
+	24.02.2021 17:24	Kolesterol (Serum/Plazma)	210	mg/dL	120 - 200	
+	24.02.2021 17:24	Kreatinin (Serum/Plazma)	1.16	mg/dL	0.7 - 1.2	
+	24.02.2021 17:24	Trigliserid (Serum/Plazma)	635	mg/dL	<150	
+	24.02.2021 17:24	Ürik asit (Serum/Plazma)	5	mg/dL	3.4 - 7	
+	24.02.2021 17:24	C reaktif protein (CRP)	5.9	mg/L	0 - 5	
+	24.02.2021 17:24	Albümin (Serum/Plazma)	47	g/L	35 - 52	
+	24.02.2021 17:24	Gamma glutamil transferaz (GGT) (Serum/Plazma)	71	IU/L	8 - 61	
+	24.02.2021 17:24	Potasyum (Serum/Plazma)	4.4	mEq/L	3.5 - 5.5	
+	24.02.2021 17:24	Sodyum (Serum/Plazma)	139	mEq/L	136 - 145	
+	24.02.2021 17:24	Romatoid faktör (RF)	< 10.0	IU/mL	0 - 14	
+	24.02.2021 16:54	Kan Sayımı Otomatik Hemogram (geniş panel)	:			
+	24.02.2021 13:47	Erit.Dağ.Gen.(RDW-CV)	14.6		11.5 - 14.5	
+	24.02.2021 13:47	Ort.Trom.Vol.(MPV)	9.9	fL	7.4 - 13.5	
+	24.02.2021 13:47	Bazofil sayısı (BASO#)	0.04	x10^3/L	0.0 - 0.10	
+	24.02.2021 13:47	RDW İndeksi	210			
+	24.02.2021 13:47	Hemoglobin (HGB)	17.3	g/dL	13,5 - 17,0	
+	24.02.2021 13:47	Lökosit (WBC)	9.1	x10^3/L	4.4 - 11.3	
+	24.02.2021 13:47	Hematokrit (HCT)	52.1		40 - 52	
+	24.02.2021 13:47	Ort.Erit.Vol. (MCV)	86.4	fL	80 - 93	
+	24.02.2021 13:47	Ort.Erit.Hem.(MCH)	28.7	pg	28 - 33	
+	24.02.2021 13:47	Ort. Erit. Hem.Kon.(MCHC)	33.2	g/dL	33 - 36	
+	24.02.2021 13:47	Nötrofil oranı (NEUT)	44.9		40 - 74	
+	24.02.2021 13:47	Lenfosit oranı (LYMPH)	41.2		20.50 - 45.0	
+	24.02.2021 13:47	Monosit oranı (MONO)	10.9		2.0 - 9.0	
+	24.02.2021 13:47	Eozinofil oranı (EO)	2.6		0.0 - 4.0	
+	24.02.2021 13:47	Bazofil oranı (BASO)	0.4		0.2 - 1.0	
+	24.02.2021 13:47	Eritrosit (RBC)	6	x10^6/L	4,5 - 5,9	
+	24.02.2021 13:47	Trombosit (PLT)	260	x10^3/L	150 - 400	
+	24.02.2021 13:47	Nötrofil sayısı (NEUT#)	4.07	x10^3/L	1.9 - 8.0	
+	24.02.2021 13:47	Lenfosit sayısı (LYMPH#)	3.74	x10^3/L	1.5 - 4.5	
+	24.02.2021 13:47	Monosit sayısı (MONO#)	0.99	x10^3/L	0.02 - 0.6	
+	24.02.2021 13:47	Eozinofil sayısı (EO#)	0.24	x10^3/L	0.0 - 0.7	
+	24.02.2021 13:47	Mentzer İndeksi	14			
+	16.02.2021 11:53	Glukoz (Postprandial 2 saat)	117		70 - 140	
+	16.02.2021 09:42	Glike hemoglobin (Hb A1c)				
+	16.02.2021 09:42	C reaktif protein (CRP)	2		0 - 5	
+	16.02.2021 09:42	Alanin aminotransferaz (ALT) (Serum/Plazma)	106		0 - 55	
+	16.02.2021 09:42	Gamma glutamil transferaz (GGT) (Serum/Plazma)	108		8 - 64	
+	16.02.2021 09:42	Trigliserid (Serum/Plazma)	907		50 - 150	
+	16.02.2021 09:42	Glukoz (Serum/Plazma)	113		70 - 105	
+	16.02.2021 09:42	TSH	4,239		0,35 - 4,94	
+	16.02.2021 09:42	İnsülin	16,2		6 - 27	
+	16.02.2021 09:42	Prolaktin	8,64		3,46 - 19,4	
+	16.02.2021 09:42	Total testosteron	180,1		142 - 923	
+	25.12.2020 08:23	Tam Kan Sayımı (Hemogram)				
+	25.12.2020 08:23	LDL kolesterol (Direkt)	63		< 130	
+	25.12.2020 08:23	Ürik asit (Serum/Plazma)	9		3 - 7,2	
+	25.12.2020 08:23	Sedimantasyon	11		0 - 20	
+	25.12.2020 08:23	Kreatinin (Serum/Plazma)	0,97		0,70 - 1,30	
+	25.12.2020 08:23	Trigliserid (Serum/Plazma)	1010		50 - 150	
+	25.12.2020 08:23	Glukoz (Serum/Plazma)	100		70 - 140	
+	25.12.2020 08:23	Üre (Serum/Plazma)	10		6 - 21	
+	25.12.2020 08:23	HDL kolesterol	23		35 - 55	
+	25.12.2020 08:23	Kolesterol (Serum/Plazma)	234		130 - 200	
+	25.12.2020 08:23	Magnezyum (Serum/Plazma)	2,23		1,6 - 2,6	
+	25.12.2020 08:23	Bilirubin, direkt (Serum/Plazma)	0,35		0 - 0,5	
+	25.12.2020 08:23	Laktat dehidrogenaz (Serum/Plazma)	271		125 - 243	
+	25.12.2020 08:23	Protein (Serum/Plazma)	7,8		6,2 - 8,3	
+	25.12.2020 08:23	C reaktif protein (CRP)	14,7		0 - 5	
+	25.12.2020 08:23	Sodyum (Serum/Plazma)	138		135 - 146	
+	25.12.2020 08:23	Fosfor (Serum/Plazma)	3		2,3 - 4,7	
+	25.12.2020 08:23	Alkalen fosfataz (Serum/Plazma)	58		20 - 150	
+	25.12.2020 08:23	Gamma glutamil transferaz (GGT) (Serum/Plazma)	108		8 - 64	
+	25.12.2020 08:23	Aspartat aminotransferaz (AST) (Serum/Plazma)	46		5 - 34	
+	25.12.2020 08:23	Alanin aminotransferaz (ALT) (Serum/Plazma)	78		0 - 55	
+	25.12.2020 08:23	Albümin (Serum/Plazma)	4,4		3,5 - 5	
+	25.12.2020 08:23	Bilirubin, total (Serum/Plazma)	1,10		0,30 - 1,20	
+	25.12.2020 08:23	Potasyum (Serum/Plazma)	3,9		3,5 - 5,2	
+	25.12.2020 08:23	Kalsiyum (Serum/Plazma)	9,6		8,4 - 10,2	
+	04.12.2020 10:49	LDL Kolesterol (Friedewald formülü)	Trigliserit değeri >400 mg/dL olduğundan hesaplanamadı!!	mg/dL	70 - 130	
+	01.12.2020 23:06	Trigliserid (Serum/Plazma)	1055	mg/dL	<150	
+	01.12.2020 14:32	Prostat spesifik antijen (PSA), serbest	0.33	g/L	0 - 1	
+	01.12.2020 14:32	Serbest T3	2.78	ng/L	2 - 4.4	
+	01.12.2020 14:32	Serbest T4	13.9	ng/L	8.6 - 17.7	
+	01.12.2020 14:32	TSH	3.47	mU/L	0.27 - 4.3	
+	01.12.2020 14:06	Kan Sayımı Otomatik Hemogram (geniş panel)	:			
+	01.12.2020 13:34	Tahmini GFH (CKD-EPI formülü)	>90	mL/min/1.73 m2	>90	
+	01.12.2020 13:34	Glukoz (Serum/Plazma)	174	mg/dL	74 - 106	
+	01.12.2020 13:34	Kolesterol (Serum/Plazma)	211	mg/dL	120 - 200	
+	01.12.2020 13:34	Alanin aminotransferaz (ALT) (Serum/Plazma)	63	IU/L	<41	
+	01.12.2020 13:34	Albümin (Serum/Plazma)	43	g/L	35 - 52	
+	01.12.2020 13:34	Alkalen fosfataz (Serum/Plazma)	63	IU/L	40 - 129	
+	01.12.2020 13:34	Aspartat aminotransferaz (AST) (Serum/Plazma)	32	IU/L	<41	
+	01.12.2020 13:34	Gamma glutamil transferaz (GGT) (Serum/Plazma)	82	IU/L	8 - 61	
+	01.12.2020 13:34	HDL Kolesterol	17	mg/dL	40 - 60	
+	01.12.2020 13:34	Kreatinin (Serum/Plazma)	0.73	mg/dL	0.7 - 1.2	
+	01.12.2020 13:34	Ürik asit (Serum/Plazma)	8.3	mg/dL	3.4 - 7	
+	01.12.2020 13:34	Üre Azotu (Serum/Plazma)	12	mg/dL	6 - 20	
+	01.12.2020 13:34	C reaktif protein (CRP)	12	mg/L	0 - 5	
+	01.12.2020 13:34	Romatoid faktör (RF)	10	IU/mL	0 - 14	
+	01.12.2020 13:01	HbA1c(IFCC)	49	mmol/mol	15 - 38	
+	01.12.2020 13:01	Glike hemoglobin (Hb A1c)	6.6		3.5 - 5.6	
+	01.12.2020 12:27	Erit.Dağ.Gen.(RDW-CV)	15.3		11.5 - 14.5	
+	01.12.2020 12:27	Monosit oranı (MONO)	9		2.0 - 9.0	
+	01.12.2020 12:27	Eozinofil oranı (EO)	3.1		0.0 - 4.0	
+	01.12.2020 12:27	Bazofil oranı (BASO)	0.4		0.2 - 1.0	
+	01.12.2020 12:27	Nötrofil sayısı (NEUT#)	4.35	x10^3/L	1.9 - 8.0	
+	01.12.2020 12:27	Ort.Trom.Vol.(MPV)	9.4	fL	7.4 - 13.5	
+	01.12.2020 12:27	Lenfosit sayısı (LYMPH#)	4.54	x10^3/L	1.5 - 4.5	
+	01.12.2020 12:27	Monosit sayısı (MONO#)	0.91	x10^3/L	0.02 - 0.6	
+	01.12.2020 12:27	Eozinofil sayısı (EO#)	0.31	x10^3/L	0.0 - 0.7	
+	01.12.2020 12:27	Bazofil sayısı (BASO#)	0.04	x10^3/L	0.0 - 0.10	
+	01.12.2020 12:27	RDW İndeksi	227			
+	01.12.2020 12:27	Trombosit (PLT)	275	x10^3/L	150 - 400	
+	01.12.2020 12:27	Hemoglobin (HGB)	16.5	g/dL	13,5 - 17,0	
+	01.12.2020 12:27	Lökosit (WBC)	10.2	x10^3/L	4.4 - 11.3	
+	01.12.2020 12:27	Hematokrit (HCT)	49.8		40 - 52	
+	01.12.2020 12:27	Ort.Erit.Vol. (MCV)	86.2	fL	80 - 93	
+	01.12.2020 12:27	Ort.Erit.Hem.(MCH)	28.5	pg	28 - 33	
+	01.12.2020 12:27	Ort. Erit. Hem.Kon.(MCHC)	33.1	g/dL	33 - 36	
+	01.12.2020 12:27	Nötrofil oranı (NEUT)	42.8		40 - 74	
+	01.12.2020 12:27	Lenfosit oranı (LYMPH)	44.7		20.50 - 45.0	
+	01.12.2020 12:27	Eritrosit (RBC)	5.8	x10^6/L	4,5 - 5,9	
+	01.12.2020 12:27	Mentzer İndeksi	15			
+	01.12.2020 10:19	GFR ölçümü (görüntüsüz)	>90	mL/min/1.73 m2	>90-	
+	01.12.2020 10:19	CRP (TÜRBİDİMETRİK)	12,0	mg/L	0-5	
+	01.12.2020 10:19	Kan üre azotu (BUN)	12	mg/dL	6-20	
+	01.12.2020 10:19	Kolesterol	211	mg/dL	120-200	
+	01.12.2020 10:19	Kreatinin	0,73	mg/dL	0,7-1,2	
+	01.12.2020 10:19	LDL kolesterol	Trigliserit değeri >400 mg/dL olduğundan hesaplanamadı!!	mg/dL	70-130	
+	01.12.2020 10:19	Romatoid faktör (RF) ( Türbidimetrik)	10	IU/mL	0-14	
+	01.12.2020 10:19	Trigliserid	1055	mg/dL	<150-	
+	01.12.2020 10:19	Ürik asit	8,3	mg/dL	3,4-7	
+	01.12.2020 10:14	Alanin aminotransferaz (ALT)	63	IU/L	<41-	
+	01.12.2020 10:14	Albümin	43	g/L	35-52	
+	01.12.2020 10:14	Alkalen fosfataz	63	IU/L	40-129	
+	01.12.2020 10:14	Aspartat transaminaz (AST)	32	IU/L	<41-	
+	01.12.2020 10:14	Gamma glutamil transferaz (GGT)	82	IU/L	8-61	
+	01.12.2020 10:14	Glikozile hemoglobin (Hb A1C) HPLC ile	6,6	%	3,5-5,6	
+	01.12.2020 10:14	Glukoz	174	mg/dL	74-106	
+	01.12.2020 10:14	HDL kolesterol	17	mg/dL	40-60	
+	01.12.2020 10:14	Tam Kan (Hemogram)				
+	01.12.2020 10:14	PSA (Serbest)	0,33	µg/L	0-1	
+	01.12.2020 10:14	Serbest T3	2,78	ng/L	2-4,4	
+	01.12.2020 10:14	Serbest T4	13,90	ng/L	8,6-17,7	
+	01.12.2020 10:14	TSH	3,47	mU/L	0,27-4,3	
+	03.10.2020 12:00	Serum İndex				
+	03.10.2020 11:30	Tam Kan Sayımı (Hemogram)				
+	03.10.2020 11:30	Bilirubin, direkt (Serum/Plazma)	0,21		0 - 0,5	
+	03.10.2020 11:30	Albümin (Serum/Plazma)	4		3,5 - 5	
+	03.10.2020 11:30	Laktat dehidrogenaz (Serum/Plazma)	198		125 - 243	
+	03.10.2020 11:30	Magnezyum (Serum/Plazma)	2,14		1,6 - 2,6	
+	03.10.2020 11:30	Bilirubin, total (Serum/Plazma)	0,70		0,30 - 1,20	
+	03.10.2020 11:30	Aspartat aminotransferaz (AST) (Serum/Plazma)	31		5 - 34	
+	03.10.2020 11:30	Alanin aminotransferaz (ALT) (Serum/Plazma)	57		0 - 55	
+	03.10.2020 11:30	Alkalen fosfataz (Serum/Plazma)	59		20 - 150	
+	03.10.2020 11:30	Gamma glutamil transferaz (GGT) (Serum/Plazma)	93		8 - 64	
+	03.10.2020 11:30	Glukoz (Serum/Plazma)	226		70 - 140	
+	03.10.2020 11:30	Üre (Serum/Plazma)	16		6 - 21	
+	03.10.2020 11:30	Sodyum (Serum/Plazma)	137		135 - 146	
+	03.10.2020 11:30	Ürik asit (Serum/Plazma)	8		3 - 7,2	
+	03.10.2020 11:30	Fosfor (Serum/Plazma)	2,3		2,3 - 4,7	
+	03.10.2020 11:30	Kreatinin (Serum/Plazma)	1,04		0,70 - 1,30	
+	03.10.2020 11:30	Protein (Serum/Plazma)	7,6		6,2 - 8,3	
+	03.10.2020 11:30	Potasyum (Serum/Plazma)	4,4		3,5 - 5,2	
+	03.10.2020 11:30	C reaktif protein (CRP)	6,5		0 - 5	
+	03.10.2020 11:30	Kalsiyum (Serum/Plazma)	9,6		8,4 - 10,2	
+	03.10.2020 11:30	TSH	1,98		0,35 - 4,94	
+	03.10.2020 11:30	Serbest T4	0,97		0,7 - 1,48	
+	03.10.2020 11:30	Serbest T3	2,35		1,58 - 3,91	
+	03.10.2020 11:30	25-Hidroksi vitamin D	15,5			
+	27.09.2020 08:24	Serum İndex				
+	27.09.2020 08:13	Tam Kan Sayımı (Hemogram)				
+	27.09.2020 08:13	Laktat dehidrogenaz (Serum/Plazma)	270		125 - 243	
+	27.09.2020 08:13	Protein (Serum/Plazma)	7,5		6,2 - 8,3	
+	27.09.2020 08:13	C reaktif protein (CRP)	7,4		0 - 5	
+	27.09.2020 08:13	Bilirubin, direkt (Serum/Plazma)	0,33		0 - 0,5	
+	27.09.2020 08:13	Alanin aminotransferaz (ALT) (Serum/Plazma)	57		0 - 55	
+	27.09.2020 08:13	Alkalen fosfataz (Serum/Plazma)	73		20 - 150	
+	27.09.2020 08:13	Gamma glutamil transferaz (GGT) (Serum/Plazma)	91		8 - 64	
+	27.09.2020 08:13	Sodyum (Serum/Plazma)	141		135 - 146	
+	27.09.2020 08:13	Kalsiyum (Serum/Plazma)	9,5		8,4 - 10,2	
+	27.09.2020 08:13	Albümin (Serum/Plazma)	4,2		3,5 - 5	
+	27.09.2020 08:13	Bilirubin, total (Serum/Plazma)	0,90		0,30 - 1,20	
+	27.09.2020 08:13	Aspartat aminotransferaz (AST) (Serum/Plazma)	34		5 - 34	
+	27.09.2020 08:13	Ürik asit (Serum/Plazma)	9,7		3 - 7,2	
+	27.09.2020 08:13	Kreatinin (Serum/Plazma)	1,12		0,70 - 1,30	
+	27.09.2020 08:13	Potasyum (Serum/Plazma)	4,6		3,5 - 5,2	
+	27.09.2020 08:13	Glukoz (Serum/Plazma)	101		70 - 140	
+	27.09.2020 08:13	Üre (Serum/Plazma)	14		6 - 21	
+	27.09.2020 08:13	Magnezyum (Serum/Plazma)	2,06		1,6 - 2,6	
+	27.09.2020 08:13	Fosfor (Serum/Plazma)	4,1		2,3 - 4,7	
+	08.09.2020 11:39	Serum İndex				
+	08.09.2020 11:19	Kalsiyum (Serum/Plazma)	9,8		8,4 - 10,2	
+	08.09.2020 11:19	Potasyum (Serum/Plazma)	4,3		3,5 - 5,2	
+	08.09.2020 11:19	Ürik asit (Serum/Plazma)	7,2		3 - 7,2	
+	08.09.2020 11:19	Kreatinin (Serum/Plazma)	0,94		0,70 - 1,30	
+	08.09.2020 11:19	Glukoz (Serum/Plazma)	109		70 - 140	
+	08.09.2020 11:19	Üre (Serum/Plazma)	14		6 - 21	
+	08.09.2020 11:19	Gamma glutamil transferaz (GGT) (Serum/Plazma)	68		8 - 64	
+	08.09.2020 11:19	Sodyum (Serum/Plazma)	138		135 - 146	
+	08.09.2020 11:19	Alanin aminotransferaz (ALT) (Serum/Plazma)	47		0 - 55	
+	08.09.2020 11:19	Alkalen fosfataz (Serum/Plazma)	85		20 - 150	
+	08.09.2020 11:19	Bilirubin, total (Serum/Plazma)	0,60		0,30 - 1,20	
+	08.09.2020 11:19	Tam Kan Sayımı (Hemogram)				
+	08.09.2020 11:19	Aspartat aminotransferaz (AST) (Serum/Plazma)	26		5 - 34	
+	08.09.2020 11:19	Albümin (Serum/Plazma)	4,1		3,5 - 5	
+	08.09.2020 11:19	Laktat dehidrogenaz (Serum/Plazma)	212		125 - 243	
+	08.09.2020 11:19	Magnezyum (Serum/Plazma)	2,04		1,6 - 2,6	
+	08.09.2020 11:19	C reaktif protein (CRP)	14,2		0 - 5	
+	08.09.2020 11:19	Bilirubin, direkt (Serum/Plazma)	0,23		0 - 0,5	
+	08.09.2020 11:19	Fosfor (Serum/Plazma)	2,5		2,3 - 4,7	
+	08.09.2020 11:19	Protein (Serum/Plazma)	7		6,2 - 8,3	
+	08.09.2020 11:19	Serbest T3	2,46		1,58 - 3,91	
+	08.09.2020 11:19	TSH	4,535		0,35 - 4,94	
+	08.09.2020 11:19	Serbest T4	1,03		0,7 - 1,48	
+	08.08.2020 12:09	TSH	5.58	ulU/mL	0,35-5.5	
+	08.08.2020 12:09	SERBEST T4	1.10	ng/dL	0.89-1.76	
+	08.08.2020 12:09	SERBEST T3	2.26	pg/mL	2.3-4.2	
+	08.08.2020 11:33	TAM KAN SAYIMI (HEMOGRAM)				
+	18.07.2020 11:22	Serum İndex				
+	18.07.2020 10:53	Tam Kan Sayımı (Hemogram)				
+	18.07.2020 10:53	Laktat dehidrogenaz (Serum/Plazma)	204		125 - 243	
+	18.07.2020 10:53	Glukoz (Serum/Plazma)	94		70 - 140	
+	18.07.2020 10:53	Magnezyum (Serum/Plazma)	2,02		1,6 - 2,6	
+	18.07.2020 10:53	Üre (Serum/Plazma)	17		6 - 21	
+	18.07.2020 10:53	C reaktif protein (CRP)	6,7		0 - 5	
+	18.07.2020 10:53	Bilirubin, direkt (Serum/Plazma)	0,31		0 - 0,5	
+	18.07.2020 10:53	Kalsiyum (Serum/Plazma)	9,7		8,4 - 10,2	
+	18.07.2020 10:53	Albümin (Serum/Plazma)	4,3		3,5 - 5	
+	18.07.2020 10:53	Ürik asit (Serum/Plazma)	6,9		3 - 7,2	
+	18.07.2020 10:53	Kreatinin (Serum/Plazma)	0,84		0,70 - 1,30	
+	18.07.2020 10:53	Potasyum (Serum/Plazma)	4,6		3,5 - 5,2	
+	18.07.2020 10:53	Alanin aminotransferaz (ALT) (Serum/Plazma)	49		0 - 55	
+	18.07.2020 10:53	Alkalen fosfataz (Serum/Plazma)	101		20 - 150	
+	18.07.2020 10:53	Bilirubin, total (Serum/Plazma)	0,80		0,30 - 1,20	
+	18.07.2020 10:53	Aspartat aminotransferaz (AST) (Serum/Plazma)	27		5 - 34	
+	18.07.2020 10:53	Fosfor (Serum/Plazma)	3,1		2,3 - 4,7	
+	18.07.2020 10:53	Protein (Serum/Plazma)	8,1		6,2 - 8,3	
+	18.07.2020 10:53	Gamma glutamil transferaz (GGT) (Serum/Plazma)	70		8 - 64	
+	18.07.2020 10:53	Sodyum (Serum/Plazma)	138		135 - 146	
+	03.07.2020 12:28	Serum İndex				
+	03.07.2020 12:07	Sodyum (Serum/Plazma)	134		135 - 146	
+	03.07.2020 12:07	Gamma glutamil transferaz (GGT) (Serum/Plazma)	73		8 - 64	
+	03.07.2020 12:07	Fosfor (Serum/Plazma)	2,6		2,3 - 4,7	
+	03.07.2020 12:07	Bilirubin, direkt (Serum/Plazma)	0,12		0 - 0,5	
+	03.07.2020 12:07	C reaktif protein (CRP)	8,5		0 - 5	
+	03.07.2020 12:07	Laktat dehidrogenaz (Serum/Plazma)	463		125 - 243	
+	03.07.2020 12:07	Potasyum (Serum/Plazma)	4,9		3,5 - 5,2	
+	03.07.2020 12:07	Kreatinin (Serum/Plazma)	0,74		0,70 - 1,30	
+	03.07.2020 12:07	Albümin (Serum/Plazma)	4,2		3,5 - 5	
+	03.07.2020 12:07	Kalsiyum (Serum/Plazma)	9,8		8,4 - 10,2	
+	03.07.2020 12:07	Aspartat aminotransferaz (AST) (Serum/Plazma)	48		5 - 34	
+	03.07.2020 12:07	Bilirubin, total (Serum/Plazma)	0,80		0,30 - 1,20	
+	03.07.2020 12:07	Alkalen fosfataz (Serum/Plazma)	134		20 - 150	
+	03.07.2020 12:07	Tam Kan Sayımı (Hemogram)				
+	03.07.2020 12:07	Alanin aminotransferaz (ALT) (Serum/Plazma)	52		0 - 55	
+	03.07.2020 12:07	Glukoz (Serum/Plazma)	111		70 - 140	
+	03.07.2020 12:07	Ürik asit (Serum/Plazma)	8,1		3 - 7,2	
+	03.07.2020 12:07	Üre (Serum/Plazma)	10		6 - 21	
+	03.07.2020 12:07	Magnezyum (Serum/Plazma)	2,07		1,6 - 2,6	
+	03.07.2020 12:07	Protein (Serum/Plazma)	10,25		6,2 - 8,3	

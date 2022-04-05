@@ -1,0 +1,62 @@
+	09.11.2021 11:23	CA 125 (Serum/Plazma)	4,2		0 - 35	
+	09.11.2021 11:23	Karsinoembriyonik antijen (CEA) (Serum/Plazma)	1,9		0 - 5	
+	09.11.2021 11:23	CA 15-3 (Serum/Plazma)	29,4		0 - 31,3	
+	08.10.2021 15:17	FOLAT (SERUM/PLAZMA)	10,3	ng/mL	3,1 - 20,5	
+	08.10.2021 15:07	VİTAMİN B12	387	pg/mL	187 - 883	
+	08.10.2021 15:01	25-Hidroksi vitamin D	33,9	ng/mL	25 - 80	
+	08.10.2021 12:34	Tiroid stimülan hormon (TSH) testi	3,00	uIU/mL	0,27 - 4,2	
+	08.10.2021 12:34	TİROİD PEROKSİDAZ ANTİKORLARI (ANTİ TPO)	29,06	IU/mL	0 - 34	
+	08.10.2021 12:34	SERBEST T3	2,68	pg/mL	2,0 - 4,4	
+	08.10.2021 12:34	İNSÜLİN	12,53	uIU/mL	2,6 - 24,9	
+	08.10.2021 12:34	ANTİ TİROGLOBULİN ANTİKOR	10,53	IU/mL	0 - 115	
+	08.10.2021 12:34	FERRİTİN (SERUM/PLAZMA)	18,42	ng/mL	13 - 150	
+	08.10.2021 12:34	SERBEST T4	17,38	pmol/L	12 - 22	
+	08.10.2021 11:36	Glike hemoglobin (Hb A1c)	6,1	%	4 - 6	
+	08.10.2021 11:21	Potasyum (Serum/Plazma)	4,88	mmol/L	3.5 - 5.5	
+	08.10.2021 11:21	LDL KOLESTEROL (DİREKT)	80	mg/dL	OPTİMAL : <100 SINIRDA YÜKSEK: 130-159 YÜKSEK: >160	
+	08.10.2021 11:21	KOLESTEROL (SERUM/PLAZMA)	160	mg/dL	50 - 200	
+	08.10.2021 11:21	HDL KOLESTEROL	66	mg/dL	45 - 65	
+	08.10.2021 11:21	DEMİR BAĞLAMA KAPASİTESİ	352	µg/dL	135 - 392	
+	08.10.2021 11:21	ÜRE (SERUM/PLAZMA)	11	mg/dL	6 - 23	
+	08.10.2021 11:21	ALKALEN FOSFATAZ (SERUM/PLAZMA)	99	U/L	35 - 105	
+	08.10.2021 11:21	Glukoz (Serum/Plazma)	108	mg/dL	70 - 100	
+	08.10.2021 11:21	Alanin aminotransferaz (ALT) (Serum/Plazma)	15	U/L	0 - 33	
+	08.10.2021 11:21	ASPARTAT AMİNOTRANSFERAZ (AST) (SERUM/PLAZMA)	15	U/L	0 - 32	
+	08.10.2021 11:21	DEMİR (SERUM/PLAZMA)	62	µg/dL	35 - 145	
+	08.10.2021 11:21	KALSİYUM (SERUM/PLAZMA)	9,9	mg/dL	8.8 - 10.2	
+	08.10.2021 11:21	KREATİNİN (SERUM/PLAZMA)				
+	08.10.2021 11:21	MAGNEZYUM (SERUM/PLAZMA)	2,04	mg/dL	1.5 - 2.6	
+	08.10.2021 11:21	Trigliserid (Serum/Plazma)	161	mg/dL	60 - 150	
+	08.10.2021 11:21	ALBÜMİN (SERUM/PLAZMA)	4,7	g/dL	3.5 - 5.2	
+	08.10.2021 11:21	SODYUM (SERUM/PLAZMA)	136	mmol/L	136 - 145	
+	08.10.2021 10:35	Tam Kan Sayımı (Hemogram)				
+	04.10.2020 11:10	Serum İndex				
+	04.10.2020 10:52	25-Hidroksi vitamin D	45,9			
+	04.10.2020 10:52	Alkalen fosfataz (Serum/Plazma)	95	U/L	20 - 150	
+	04.10.2020 10:52	Alanin aminotransferaz (ALT) (Serum/Plazma)	13	U/L	0 - 55	
+	04.10.2020 10:52	Sodyum (Serum/Plazma)	139	mmol/L	135 - 146	
+	04.10.2020 10:52	Gamma glutamil transferaz (GGT) (Serum/Plazma)	19	U/L	5 - 36	
+	04.10.2020 10:52	Albümin (Serum/Plazma)	4,6	g/dL	3,4 - 4,8	
+	04.10.2020 10:52	Kalsiyum (Serum/Plazma)	10,2	mg/dL	8,4 - 10,2	
+	04.10.2020 10:52	Aspartat aminotransferaz (AST) (Serum/Plazma)	15	U/L	5 - 34	
+	04.10.2020 10:52	Bilirubin, total (Serum/Plazma)	0,50	mg/dL	0,30 - 1,20	
+	04.10.2020 10:52	Ürik asit (Serum/Plazma)	6,8	mg/dL	2,5 - 6	
+	04.10.2020 10:52	Üre (Serum/Plazma)	10	mg/dL	6 - 20	
+	04.10.2020 10:52	Glomerüler Filtrasyon Hızı (CKD - EPI)	76			
+	04.10.2020 10:52	Potasyum (Serum/Plazma)	4,8	mmol/L	3,5 - 5,2	
+	04.10.2020 10:52	Kreatinin (Serum/Plazma)	0,75	mg/dL	0,50 - 1,20	
+	04.10.2020 10:52	Glukoz (Serum/Plazma)	104	mg/dL	70 - 140	
+	04.10.2020 10:52	Magnezyum (Serum/Plazma)	1,86	mg/dL	1,6 - 2,6	
+	04.10.2020 10:52	Laktat dehidrogenaz (Serum/Plazma)	189	U/L	125 - 243	
+	04.10.2020 10:52	Protein (Serum/Plazma)	7,5	g/dL	6 - 8,1	
+	04.10.2020 10:52	Fosfor (Serum/Plazma)	3,9	mg/dL	2,3 - 4,7	
+	04.10.2020 10:52	Bilirubin, direkt (Serum/Plazma)	0,21	mg/dL	0 - 0,5	
+	04.10.2020 10:52	C reaktif protein (CRP)	5,6	mg/L	0 - 5	
+	04.10.2020 10:52	Tam Kan Sayımı (Hemogram)				
+	04.10.2020 10:52	Trigliserid (Serum/Plazma)	156	mg/dL	55 - 150	
+	04.10.2020 10:52	Kolesterol (Serum/Plazma)	182	mg/dL	130 - 200	
+	04.10.2020 10:52	LDL kolesterol (Direkt)	104	mg/dL	< 130	
+	04.10.2020 10:52	HDL kolesterol	60	mg/dL	45 - 65	
+	04.10.2020 10:52	CA 15-3 (Serum/Plazma)	23,4	IU/mL	0 - 31,3	
+	04.10.2020 10:52	CA 125 (Serum/Plazma)	2,8	IU/mL	0 - 35	
+	04.10.2020 10:52	Karsinoembriyonik antijen (CEA) (Serum/Plazma)	1,7	µg/L	0 - 5

@@ -1,0 +1,65 @@
+	22.02.2022 08:13	Serbest T3	2,89		1,58 - 3,91	
+	22.02.2022 08:13	Serbest T4	1		0,7 - 1,48	
+	22.02.2022 08:13	TSH	1,734		0,35 - 4,94	
+	22.02.2022 08:13	Ferritin (Serum/Plazma)	77		4,6 - 204	
+	22.02.2022 08:13	CA 125 (Serum/Plazma)	16,8		0 - 35	
+	22.02.2022 08:13	Karsinoembriyonik antijen (CEA) (Serum/Plazma)	1,35		0 - 5	
+	22.02.2022 08:13	CA 15-3 (Serum/Plazma)	25		0 - 31,3	
+	22.02.2022 08:13	CA 19-9 (Serum/Plazma)	1,62		0 - 37	
+	26.02.2021 07:55	TSH	2,25		0,35 - 4,94	
+	26.02.2021 07:55	CA 125 (Serum/Plazma)	16,6		0 - 35	
+	26.02.2021 07:55	25-Hidroksi vitamin D	30,4			
+	26.02.2021 07:55	Üre (Serum/Plazma)	12		6 - 20	
+	26.02.2021 07:55	Ürik asit (Serum/Plazma)	4,9		2,5 - 6	
+	26.02.2021 07:55	Glukoz (Serum/Plazma)	95		70 - 140	
+	26.02.2021 07:55	Kalsiyum (Serum/Plazma)	9,6		8,4 - 10,2	
+	26.02.2021 07:55	Albümin (Serum/Plazma)	4,3		3,4 - 4,8	
+	26.02.2021 07:55	Kreatinin (Serum/Plazma)	0,83		0,50 - 1,20	
+	26.02.2021 07:55	Potasyum (Serum/Plazma)	4		3,5 - 5,2	
+	26.02.2021 07:55	Alanin aminotransferaz (ALT) (Serum/Plazma)	13		0 - 55	
+	26.02.2021 07:55	Tam Kan Sayımı (Hemogram)				
+	26.02.2021 07:55	Bilirubin, total (Serum/Plazma)	0,70		0,30 - 1,20	
+	26.02.2021 07:55	Aspartat aminotransferaz (AST) (Serum/Plazma)	20		5 - 34	
+	26.02.2021 07:55	Sodyum (Serum/Plazma)	141		135 - 146	
+	26.02.2021 07:55	Alkalen fosfataz (Serum/Plazma)	50		20 - 150	
+	26.02.2021 07:55	Gamma glutamil transferaz (GGT) (Serum/Plazma)	12		5 - 36	
+	26.02.2021 07:55	Protein (Serum/Plazma)	7,2		6 - 8,1	
+	26.02.2021 07:55	C reaktif protein (CRP)	3,2		0 - 5	
+	26.02.2021 07:55	Fosfor (Serum/Plazma)	3,6		2,3 - 4,7	
+	26.02.2021 07:55	Magnezyum (Serum/Plazma)	2,31		1,6 - 2,6	
+	26.02.2021 07:55	Bilirubin, direkt (Serum/Plazma)	0,19		0 - 0,5	
+	26.02.2021 07:55	Laktat dehidrogenaz (Serum/Plazma)	152		125 - 243	
+	26.02.2021 07:55	Karsinoembriyonik antijen (CEA) (Serum/Plazma)	1,73		0 - 5	
+	26.02.2021 07:55	CA 19-9 (Serum/Plazma)	3,98		0 - 37	
+	30.12.2020 08:59	Serum İndex				
+	30.12.2020 08:39	Tam Kan Sayımı (Hemogram)				
+	30.12.2020 08:39	Bilirubin, direkt (Serum/Plazma)	0,23			
+	30.12.2020 08:39	Laktat dehidrogenaz (Serum/Plazma)	126			
+	30.12.2020 08:39	Protein (Serum/Plazma)	7,4			
+	30.12.2020 08:39	C reaktif protein (CRP)	2,2			
+	30.12.2020 08:39	Fosfor (Serum/Plazma)	3,4			
+	30.12.2020 08:39	Potasyum (Serum/Plazma)	3,9			
+	30.12.2020 08:39	Kalsiyum (Serum/Plazma)	9,3			
+	30.12.2020 08:39	Demir bağlama kapasitesi	144,9			
+	30.12.2020 08:39	Ürik asit (Serum/Plazma)	5,1			
+	30.12.2020 08:39	Kreatinin (Serum/Plazma)	0,84			
+	30.12.2020 08:39	Demir (Serum/Plazma)	99,7			
+	30.12.2020 08:39	Glukoz (Serum/Plazma)	103			
+	30.12.2020 08:39	Üre (Serum/Plazma)	17			
+	30.12.2020 08:39	Gamma glutamil transferaz (GGT) (Serum/Plazma)	13			
+	30.12.2020 08:39	Alkalen fosfataz (Serum/Plazma)	49			
+	30.12.2020 08:39	Aspartat aminotransferaz (AST) (Serum/Plazma)	16			
+	30.12.2020 08:39	Alanin aminotransferaz (ALT) (Serum/Plazma)	16			
+	30.12.2020 08:39	Albümin (Serum/Plazma)	4,3			
+	30.12.2020 08:39	Bilirubin, total (Serum/Plazma)	0,80			
+	30.12.2020 08:39	Magnezyum (Serum/Plazma)	1,9			
+	30.12.2020 08:39	Sodyum (Serum/Plazma)	139			
+	30.12.2020 08:39	Glomerüler Filtrasyon Hızı (CKD - EPI)	72			
+	30.12.2020 08:39	Ferritin (Serum/Plazma)	47			
+	30.12.2020 08:39	Vitamin B12	1030			
+	30.12.2020 08:39	Folat (Serum/Plazma)	9			
+	30.12.2020 08:39	25-Hidroksi vitamin D	34,3			
+	30.12.2020 08:39	CA 125 (Serum/Plazma)	14,8			
+	30.12.2020 08:39	Karsinoembriyonik antijen (CEA) (Serum/Plazma)	1,42			
+	30.12.2020 08:39	CA 15-3 (Serum/Plazma)	23,2			
+	30.12.2020 08:39	CA 19-9 (Serum/Plazma)	1,91

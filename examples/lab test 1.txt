@@ -1,0 +1,38 @@
+	22.12.2021 08:13	Kreatinin (Serum/Plazma)	0,82		0,50 - 1,20	
+	22.12.2021 08:13	Ürik asit (Serum/Plazma)	5		2,5 - 6	
+	22.12.2021 08:13	Üre (Serum/Plazma)	16		6 - 20	
+	22.12.2021 08:13	Glukoz (Serum/Plazma)	93		70 - 140	
+	22.12.2021 08:13	Gamma glutamil transferaz (GGT) (Serum/Plazma)	11		5 - 36	
+	22.12.2021 08:13	Alkalen fosfataz (Serum/Plazma)	56		20 - 150	
+	22.12.2021 08:13	Alanin aminotransferaz (ALT) (Serum/Plazma)	14		0 - 55	
+	22.12.2021 08:13	Aspartat aminotransferaz (AST) (Serum/Plazma)	17		5 - 34	
+	22.12.2021 08:13	Bilirubin, total (Serum/Plazma)	0,80		0,30 - 1,20	
+	22.12.2021 08:13	Albümin (Serum/Plazma)	4,3		3,4 - 4,8	
+	22.12.2021 08:13	Kalsiyum (Serum/Plazma)	9,7		8,4 - 10,2	
+	22.12.2021 08:13	Potasyum (Serum/Plazma)	4,2		3,5 - 5,2	
+	22.12.2021 08:13	Magnezyum (Serum/Plazma)	1,9		1,6 - 2,6	
+	22.12.2021 08:13	Laktat dehidrogenaz (Serum/Plazma)	144		125 - 243	
+	22.12.2021 08:13	Bilirubin, direkt (Serum/Plazma)	0,23		0 - 0,5	
+	22.12.2021 08:13	C reaktif protein (CRP)	2,7		0 - 5	
+	22.12.2021 08:13	Protein (Serum/Plazma)	7,6		6 - 8,1	
+	22.12.2021 08:13	Fosfor (Serum/Plazma)	3		2,3 - 4,7	
+	22.12.2021 08:13	Sodyum (Serum/Plazma)	140		135 - 146	
+	22.12.2021 08:13	Kolesterol (Serum/Plazma)	238		130 - 200	
+	22.12.2021 08:13	Demir bağlama kapasitesi	116,3		120 - 370	
+	22.12.2021 08:13	Demir (Serum/Plazma)	127,5		50 - 170	
+	22.12.2021 08:13	LDL kolesterol (Direkt)	167		< 130	
+	22.12.2021 08:13	Trigliserid (Serum/Plazma)	236		< 150	
+	22.12.2021 08:13	Glomerüler Filtrasyon Hızı (CKD - EPI)	74		> 60	
+	22.12.2021 08:13	HDL kolesterol	45		45 - 65	
+	22.12.2021 08:13	25-Hidroksi vitamin D	33,81			
+	22.12.2021 08:13	Serbest T3	2,89		1,58 - 3,91	
+	22.12.2021 08:13	Serbest T4	1		0,7 - 1,48	
+	22.12.2021 08:13	TSH	1,734		0,35 - 4,94	
+	22.12.2021 08:13	Ferritin (Serum/Plazma)	77		4,6 - 204	
+	22.12.2021 08:13	CA 125 (Serum/Plazma)	16,8		0 - 35	
+	22.12.2021 08:13	Karsinoembriyonik antijen (CEA) (Serum/Plazma)	1,35		0 - 5	
+	22.12.2021 08:13	CA 15-3 (Serum/Plazma)	25		0 - 31,3	
+	22.12.2021 08:13	CA 19-9 (Serum/Plazma)	1,62		0 - 37	
+	26.07.2021 07:55	TSH	2,25		0,35 - 4,94	
+	26.07.2021 07:55	CA 125 (Serum/Plazma)	16,6		0 - 35	
+	26.07.2021 07:55	25-Hidroksi vitamin D	30,4	

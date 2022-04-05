@@ -1,0 +1,71 @@
+	24.11.2021 11:24	Fosfor (Serum/Plazma)	3,3		2,3 - 4,7	
+	24.11.2021 11:24	Protein (Serum/Plazma)	7		6 - 8,1	
+	24.11.2021 11:24	Sodyum (Serum/Plazma)	141		135 - 146	
+	24.11.2021 11:24	Bilirubin, direkt (Serum/Plazma)	0,17		0 - 0,5	
+	24.11.2021 11:24	Laktat dehidrogenaz (Serum/Plazma)	191		125 - 243	
+	24.11.2021 11:24	C reaktif protein (CRP)	< 2		0 - 5	
+	24.11.2021 11:24	Magnezyum (Serum/Plazma)	2,46		1,6 - 2,6	
+	24.11.2021 11:24	Gamma glutamil transferaz (GGT) (Serum/Plazma)	17		5 - 36	
+	24.11.2021 11:24	Üre (Serum/Plazma)	14		6 - 20	
+	24.11.2021 11:24	Ürik asit (Serum/Plazma)	5,5		2,5 - 6	
+	24.11.2021 11:24	Glukoz (Serum/Plazma)	103		70 - 140	
+	24.11.2021 11:24	Kalsiyum (Serum/Plazma)	9,9		8,4 - 10,2	
+	24.11.2021 11:24	Albümin (Serum/Plazma)	4		3,4 - 4,8	
+	24.11.2021 11:24	Potasyum (Serum/Plazma)	3,7		3,5 - 5,2	
+	24.11.2021 11:24	Alkalen fosfataz (Serum/Plazma)	123		20 - 150	
+	24.11.2021 11:24	Bilirubin, total (Serum/Plazma)	0,50		0,30 - 1,20	
+	24.11.2021 11:24	TSH	1,299		0,35 - 4,94	
+	24.11.2021 11:24	CA 125 (Serum/Plazma)	10,5		0 - 35	
+	24.11.2021 11:24	25-Hidroksi vitamin D	30,6			
+	24.11.2021 11:24	CA 15-3 (Serum/Plazma)	16,7		0 - 31,3	
+	24.11.2021 11:24	Karsinoembriyonik antijen (CEA) (Serum/Plazma)	1,57		0 - 5	
+	06.11.2021 09:27	CA 19-9	27,06	U/mL	0 - 39	
+	06.11.2021 09:27	ALANIN AMINOTRANSFERAZ (ALT) (SERUM/PLAZMA)	27	U/L	0 - 42	
+	06.11.2021 09:27	KREATİNİN SERUM				
+	06.11.2021 09:27	KOLESTEROL (SERUM/PLAZMA)	188	mg/dL	113 - 200	
+	06.11.2021 09:27	HDL-KOLESTEROL	59	mg/dL	45 - >	
+	06.11.2021 09:27	LDL KOLESTEROL (DIREKT)	101	mg/dL	59 - 130	
+	06.11.2021 09:27	TRİGLİSERİT	139	mg/dL	35 - 150	
+	06.11.2021 09:27	TAM KAN SAYIMI (HEMOGRAM)				
+	06.11.2021 09:27	SEDİMENTASYON	18	mm/h	0 - 25	
+	06.11.2021 09:27	ÜRE				
+	06.11.2021 09:27	ASPARTAT AMINOTRANSFERAZ (AST) (SERUM/PLAZMA)	17	U/L	0 - 37	
+	06.11.2021 09:27	GGT	10	U/L	7 - 40	
+	20.11.2020 12:15	Serum İndex				
+	20.11.2020 11:43	LDL kolesterol (Direkt)	124			
+	20.11.2020 11:43	Trigliserid (Serum/Plazma)	131			
+	20.11.2020 11:43	HDL kolesterol	46			
+	20.11.2020 11:43	Kolesterol (Serum/Plazma)	195			
+	20.11.2020 11:43	Tam Kan Sayımı (Hemogram)				
+	20.11.2020 11:43	Albümin (Serum/Plazma)	4,1			
+	20.11.2020 11:43	Kalsiyum (Serum/Plazma)	9,6			
+	20.11.2020 11:43	Potasyum (Serum/Plazma)	4			
+	20.11.2020 11:43	Kreatinin (Serum/Plazma)	0,80			
+	20.11.2020 11:43	Ürik asit (Serum/Plazma)	5,4			
+	20.11.2020 11:43	Üre (Serum/Plazma)	16			
+	20.11.2020 11:43	Glukoz (Serum/Plazma)	115			
+	20.11.2020 11:43	Protein (Serum/Plazma)	6,8			
+	20.11.2020 11:43	Fosfor (Serum/Plazma)	3,4			
+	20.11.2020 11:43	Sodyum (Serum/Plazma)	142			
+	20.11.2020 11:43	Gamma glutamil transferaz (GGT) (Serum/Plazma)	12			
+	20.11.2020 11:43	Alkalen fosfataz (Serum/Plazma)	102			
+	20.11.2020 11:43	Alanin aminotransferaz (ALT) (Serum/Plazma)	26			
+	20.11.2020 11:43	Aspartat aminotransferaz (AST) (Serum/Plazma)	17			
+	20.11.2020 11:43	Bilirubin, total (Serum/Plazma)	0,6			
+	20.11.2020 11:43	Magnezyum (Serum/Plazma)	2,5			
+	20.11.2020 11:43	Laktat dehidrogenaz (Serum/Plazma)	177			
+	20.11.2020 11:43	Bilirubin, direkt (Serum/Plazma)	0,2			
+	20.11.2020 11:43	C reaktif protein (CRP)	< 2			
+	20.11.2020 11:43	Glomerüler Filtrasyon Hızı (CKD - EPI)	72			
+	20.11.2020 11:43	TSH	0,734			
+	20.11.2020 11:43	25-Hidroksi vitamin D	36			
+	20.11.2020 11:43	CA 125 (Serum/Plazma)	10,3			
+	20.11.2020 11:43	Karsinoembriyonik antijen (CEA) (Serum/Plazma)	1,54			
+	20.11.2020 11:43	CA 15-3 (Serum/Plazma)	13,4			
+	03.09.2020 10:00	LİPAZ (SERUM/PLAZMA)	40	U/L	0 - 60	
+	03.09.2020 10:00	GAMMA GLUTAMİL TRANSFERAZ (GGT) (SERUM/PLAZMA)	12	U/L	7 - 40	
+	03.09.2020 10:00	ASPARTAT AMİNOTRANSFERAZ (AST) (SERUM/PLAZMA)	19	U/L	0 - 37	
+	03.09.2020 10:00	CA 19-9 (SERUM/PLAZMA)	34.63	U/mL	0.0 - 39.0	
+	03.09.2020 10:00	ALANİN AMİNOTRANSFERAZ (ALT) (SERUM/PLAZMA)	28	U/L	0 - 42	
+	03.09.2020 10:00	PANKREATİK AMİLAZ (SERUM/PLAZMA)	37	U/L	0 - 53	
+	03.09.2020 10:00	HELİCOBACTER PYLORİ IGA (ELISA)	2.8 NEGATİF	Index	<9 NEGATIVE -	
